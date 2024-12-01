@@ -33,10 +33,10 @@ vectorstore/
 *.db
 
 # Large Data Files
-*.csv
-*.json
-*.parquet
-*.zip
+# *.csv
+# *.json
+# *.parquet
+# *.zip
 
 # Model Weights and Checkpoints
 *.pth
