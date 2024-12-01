@@ -1,0 +1,72 @@
+# Python and Virtual Environment
+.venv
+venv/
+env/
+*.env
+.env
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Machine Learning & AI Specific
+*.h5
+*.keras
+*.model
+*.pkl
+*.joblib
+
+# Vector Databases
+chroma_db/
+
+faiss_index/
+vectorstore/
+
+# Logs and Databases
+*.log
+*.sqlite3
+*.db
+
+# Large Data Files
+*.csv
+*.json
+*.parquet
+*.zip
+
+# Model Weights and Checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Dependency Directories
+node_modules/
+.pytest_cache/
+
+# Build and Distribution
+build/
+dist/
+*.egg-info/
+
+# Sensitive Information
+secrets.json
+*.key
+credentials.json
+
+# Temporary Files
+tmp/
+temp/

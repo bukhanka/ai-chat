@@ -1,0 +1,34 @@
+# Core AI and Language Processing
+openai>=1.3.0
+langchain>=0.1.0
+langchain-openai>=0.1.0
+
+# Document Processing
+python-docx>=1.1.0
+PyPDF2>=3.0.0
+mammoth>=1.4.21
+html2text>=2020.1.16
+reportlab>=4.0.0
+
+# Web Framework and API
+fastapi>=0.95.0
+uvicorn>=0.22.0
+python-multipart>=0.0.6
+
+# Type hinting and utility
+typing-extensions>=4.7.0
+pydantic>=2.0.0
+
+# Optional: For environment variable management
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=7.3.0
+pytest-asyncio>=0.21.0
+httpx>=0.24.0
+
+# Text Splitting and Processing
+scikit-learn>=1.2.0
+
+# Optional: Logging and Debugging
+loguru>=0.7.0

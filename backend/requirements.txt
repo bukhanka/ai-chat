@@ -1,0 +1,15 @@
+langchain-chroma
+openai
+langchain
+chromadb
+fastapi
+uvicorn
+python-multipart
+pydantic
+PyPDF2
+tiktoken
+typing_extensions
+chardet
+python-docx
+mammoth
+html2text 
